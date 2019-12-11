@@ -1,0 +1,11 @@
+C:\Users\JorisD\source\repos\Dayofcode3\Dayofcode3\bin\Debug\netcoreapp2.1\Dayofcode3.deps.json
+C:\Users\JorisD\source\repos\Dayofcode3\Dayofcode3\bin\Debug\netcoreapp2.1\Dayofcode3.runtimeconfig.json
+C:\Users\JorisD\source\repos\Dayofcode3\Dayofcode3\bin\Debug\netcoreapp2.1\Dayofcode3.runtimeconfig.dev.json
+C:\Users\JorisD\source\repos\Dayofcode3\Dayofcode3\bin\Debug\netcoreapp2.1\Dayofcode3.dll
+C:\Users\JorisD\source\repos\Dayofcode3\Dayofcode3\bin\Debug\netcoreapp2.1\Dayofcode3.pdb
+C:\Users\JorisD\source\repos\Dayofcode3\Dayofcode3\obj\Debug\netcoreapp2.1\Dayofcode3.csprojAssemblyReference.cache
+C:\Users\JorisD\source\repos\Dayofcode3\Dayofcode3\obj\Debug\netcoreapp2.1\Dayofcode3.csproj.CoreCompileInputs.cache
+C:\Users\JorisD\source\repos\Dayofcode3\Dayofcode3\obj\Debug\netcoreapp2.1\Dayofcode3.AssemblyInfoInputs.cache
+C:\Users\JorisD\source\repos\Dayofcode3\Dayofcode3\obj\Debug\netcoreapp2.1\Dayofcode3.AssemblyInfo.cs
+C:\Users\JorisD\source\repos\Dayofcode3\Dayofcode3\obj\Debug\netcoreapp2.1\Dayofcode3.dll
+C:\Users\JorisD\source\repos\Dayofcode3\Dayofcode3\obj\Debug\netcoreapp2.1\Dayofcode3.pdb
